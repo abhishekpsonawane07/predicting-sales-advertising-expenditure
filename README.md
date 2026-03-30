@@ -8,7 +8,7 @@ A comprehensive statistical analysis investigating the relationship between adve
 
 ## 📌 Project Overview
 
-This project analyses the [Advertising Dataset]([https://www.kaggle.com/datasets/ashydv/advertisingdataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)) to answer a key business question:
+This project analyses the [Advertising Dataset]((https://www.kaggle.com/datasets/bumba5341/advertisingcsv)) to answer a key business question:
 
 > **Which advertising channels most effectively drive product sales, and how should a marketing manager allocate budget to maximise returns?**
 
